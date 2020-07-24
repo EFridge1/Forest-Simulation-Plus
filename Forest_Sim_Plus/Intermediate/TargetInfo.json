@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Forest_Sim_Plus",
+			"Path": "C:\\Users\\Evan Fridge\\Documents\\Unreal Projects\\Forest_Sim_Plus\\Source\\Forest_Sim_Plus.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Forest_Sim_PlusEditor",
+			"Path": "C:\\Users\\Evan Fridge\\Documents\\Unreal Projects\\Forest_Sim_Plus\\Source\\Forest_Sim_PlusEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

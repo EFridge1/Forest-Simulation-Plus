@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Forest_Sim_Plus.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Evan Fridge\Documents\Unreal Projects\Forest_Sim_Plus\Intermediate\Build\Win64\Forest_Sim_PlusEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Evan Fridge\Documents\Unreal Projects\Forest_Sim_Plus\Intermediate\Build\Win64\UE4Editor\Development\Forest_Sim_Plus\Forest_Sim_Plus.cpp.obj"
+"C:\Users\Evan Fridge\Documents\Unreal Projects\Forest_Sim_Plus\Intermediate\Build\Win64\UE4Editor\Development\Forest_Sim_Plus\Forest_Sim_PlusCharacter.cpp.obj"
+"C:\Users\Evan Fridge\Documents\Unreal Projects\Forest_Sim_Plus\Intermediate\Build\Win64\UE4Editor\Development\Forest_Sim_Plus\Forest_Sim_PlusGameMode.cpp.obj"
+"C:\Users\Evan Fridge\Documents\Unreal Projects\Forest_Sim_Plus\Intermediate\Build\Win64\UE4Editor\Development\Forest_Sim_Plus\Forest_Sim_Plus.init.gen.cpp.obj"
+"C:\Users\Evan Fridge\Documents\Unreal Projects\Forest_Sim_Plus\Intermediate\Build\Win64\UE4Editor\Development\Forest_Sim_Plus\Forest_Sim_PlusCharacter.gen.cpp.obj"
+"C:\Users\Evan Fridge\Documents\Unreal Projects\Forest_Sim_Plus\Intermediate\Build\Win64\UE4Editor\Development\Forest_Sim_Plus\Forest_Sim_PlusGameMode.gen.cpp.obj"
+"C:\Users\Evan Fridge\Documents\Unreal Projects\Forest_Sim_Plus\Intermediate\Build\Win64\UE4Editor\Development\Forest_Sim_Plus\Default.rc2.res"
+/OUT:"C:\Users\Evan Fridge\Documents\Unreal Projects\Forest_Sim_Plus\Intermediate\Build\Win64\UE4Editor\Development\Forest_Sim_Plus\UE4Editor-Forest_Sim_Plus.lib"
+/INCLUDE:IMPLEMENT_MODULE_Forest_Sim_Plus

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Forest_Sim_Plus.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{EF6E5379-2777-4C33-BE12-7F0DA4CC9BED}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Forest_Sim_Plus.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Forest_Sim_PlusEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{0E13FC02-2D8A-4D81-A8CD-6B46CA0BEB23}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Forest_Sim_Plus">
+      <UniqueIdentifier>{932BFCA6-740F-4081-9C7C-F307C529C8A0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Forest_Sim_Plus\Forest_Sim_Plus.Build.cs">
+      <Filter>Source\Forest_Sim_Plus</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Forest_Sim_Plus\Forest_Sim_Plus.cpp">
+      <Filter>Source\Forest_Sim_Plus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Forest_Sim_Plus\Forest_Sim_Plus.h">
+      <Filter>Source\Forest_Sim_Plus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Forest_Sim_Plus\Forest_Sim_PlusCharacter.cpp">
+      <Filter>Source\Forest_Sim_Plus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Forest_Sim_Plus\Forest_Sim_PlusCharacter.h">
+      <Filter>Source\Forest_Sim_Plus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Forest_Sim_Plus\Forest_Sim_PlusGameMode.cpp">
+      <Filter>Source\Forest_Sim_Plus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Forest_Sim_Plus\Forest_Sim_PlusGameMode.h">
+      <Filter>Source\Forest_Sim_Plus</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
